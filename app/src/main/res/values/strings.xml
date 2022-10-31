@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toko Buku</string>
+    <string name="Harga_buku">Rp. 65.000</string>
+    <string name="price">Harga</string>
+    <string name="deskription">Buku ini menceritakan tentang perjuangan Bu Muslimah dan Pak Harfan, dua orang guru yang memiliki dedikasi tinggi dalam dunia pendidikan, dimana dengan usaha dan kesungguhannya mereka berdua berhasil memajukan pendidikan di desa Gantong satu desa terpencil di pulau Balitong.</string>
+    <string name="ingredients">534 Halaman</string>
+    <string name="Genre">Genre Drama</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
